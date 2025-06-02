@@ -21,8 +21,5 @@ $ejecutar = mysqli_query($conexion, $sql);
             </nav>
         </div>
     </header>
-    <nav>
-        <button>Agregar ciudadano</button>
-    </nav>
 </body>
 </html>
