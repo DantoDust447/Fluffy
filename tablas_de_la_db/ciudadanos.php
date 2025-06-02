@@ -14,6 +14,6 @@ $ejecutar = mysqli_query($conexion, $sql);
     <title>Ciudadanos</title>
 </head>
 <body>
-    <a href="../index.php"><img src="../imgs/house.svg" alt="Inicio"></a>
+    <a href="../index.php"><img src="../imgs/house.svg" alt="Inicio">_Inicio</a>
 </body>
 </html>

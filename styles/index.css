@@ -13,3 +13,7 @@ header{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+a:hover{
+    background-color: #a0d6c1;
+    color: #000000;
+}
