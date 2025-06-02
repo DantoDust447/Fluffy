@@ -11,6 +11,7 @@
 <body>
     <header>
         <h1>Ciudadanos</h1>
-    <a href="procesos_crud/conexion.php">Verificar conexion</a>
+    <a href="procesos_crud/conexion.php">Verificar conexion</a> |
+    <a href="tablas_de_la_db/ciudadanos.php">Ciudadanos</a>
 </body>
 </html>
